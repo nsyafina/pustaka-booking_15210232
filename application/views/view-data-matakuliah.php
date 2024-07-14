@@ -1,14 +1,14 @@
 <html>
 
 <head>
-<title>Tampil Data Matakuliah</title>
+	<title>Tampil Data Matakuliah</title>
 </head>
 <body>
- <center>
- 		<table>
- 			<tr>
+	<center>
+		<table>
+			<tr>
 				<th colspan="3">
-				 	Tampil Data Matakuliah
+					Tampil Data Matakuliah
 				</th>
 			</tr>
 			<tr>
@@ -42,7 +42,7 @@
 					<a href="<?= base_url('matakuliah'); ?>">Kembali</a>
 				</td>
 			</tr>
- 		</table>
- </center>
+		</table>
+	</center>
 </body>
 </html>
